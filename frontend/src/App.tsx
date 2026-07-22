@@ -17,7 +17,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Posts</h1>
+      <h1>Gestión de Posts</h1>
 
       {/* Filtro */}
       <PostFilter />
